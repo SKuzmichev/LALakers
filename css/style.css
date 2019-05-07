@@ -7,7 +7,9 @@ figcaption { /* Стилизация текста под изображение�
 	text-align: center;
 	color: #47027F;
 }
-
+p {
+	align="justify"
+}
 .header_container { /* Стилизация шапки */
 	width: 100%;
 	max-width: 63%;
