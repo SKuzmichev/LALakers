@@ -10,6 +10,10 @@ figcaption { /* Стилизация текста под изображение�
 p {
 	align="justify"
 }
+
+.logotip {
+	width: 70px;
+}
 .header_container { /* Стилизация шапки */
 	width: 100%;
 	max-width: 63%;
